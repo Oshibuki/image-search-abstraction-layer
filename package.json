@@ -1,0 +1,21 @@
+{
+  "name": "model",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "@hapi/joi": "^15.1.0",
+    "axios": "^0.19.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~4.1.1",
+    "dotenv": "^8.1.0",
+    "express": "~4.17.1",
+    "helmet": "^3.21.0",
+    "http-errors": "~1.7.3",
+    "jade": "~1.11.0",
+    "mongoose": "^5.7.0",
+    "morgan": "~1.9.1"
+  }
+}
