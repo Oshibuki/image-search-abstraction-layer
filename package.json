@@ -15,7 +15,7 @@
     "helmet": "^3.21.3",
     "http-errors": "~1.7.3",
     "jade": "~1.11.0",
-    "mongoose": "^5.9.5",
+    "mongoose": "^5.9.11",
     "morgan": "~1.9.1"
   }
 }
